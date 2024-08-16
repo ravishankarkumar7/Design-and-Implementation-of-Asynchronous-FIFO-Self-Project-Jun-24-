@@ -1,6 +1,6 @@
 
 
-# Dual Clock Asynchronous FIFO Module
+# Design and Implementation of Asynchronous FIFO | Self Project (Jun’24)
 
 ## Overview
 This project provides a Verilog implementation of a Dual Clock Asynchronous FIFO (First In, First Out) buffer. The FIFO module is designed to handle data transfers between two systems operating at different clock frequencies. This asynchronous FIFO ensures smooth and reliable data transfer by managing read and write operations independently.
